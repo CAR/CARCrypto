@@ -6,4 +6,8 @@
  */
 
 echo "Hello Git!";
+
+echo "etwas neues hier!";
+
+echo str_replace("x", "y", "xy");
 ?>
